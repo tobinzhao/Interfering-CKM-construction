@@ -1,7 +1,7 @@
 # Interfering-CKM-construction
-This is the source code of following paper [1].
+This is the dataset of the following paper [1].
 
-[1] L. Zhao, Z. Fei, X. Wang, J. Huang, Y. Li and Y. Zhang, "IMNet: Interference-Aware Channel Knowledge Map Construction and Localization," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3526222.
+[1] L. Zhao, Z. Fei, X. Wang, J. Huang, Y. Li, and Y. Zhang, "IMNet: Interference-Aware Channel Knowledge Map Construction and Localization," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3526222.
 
 ## Overview
 This dataset is designed to support research in [IMNet: Interference-Aware CKN construction and localization].
