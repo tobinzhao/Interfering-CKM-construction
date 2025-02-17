@@ -1,13 +1,12 @@
 # Interfering-CKM-construction
+
+## Overview
+
 This is the dataset of the following paper [1].
 
 [1] L. Zhao, Z. Fei, X. Wang, J. Huang, Y. Li, and Y. Zhang, "IMNet: Interference-Aware Channel Knowledge Map Construction and Localization," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3526222.
 
-## Overview
-This dataset is designed to support research in [IMNet: Interference-Aware CKN construction and localization].
-Currently, it is under review, and the final version will be shared after thorough organization and finalization.
 ## Dataset Content
-
 The dataset includes the following files:
 The .mat files for interfering-CKM reconstruction, are named by the map index.
 The .mat files contain the CKM of BS, interference, and the buildings distribution map.
